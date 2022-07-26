@@ -1,10 +1,6 @@
-## Instructions For running the codes -
-1) Please run the codes in sequence as given as the functions are dependent on each other and also there might be the page that is opened already is used.
-
-2) If the code gives some exceptions then please re-run it might be due data transmission although i have included sleep commands to get the elements loaded completely.
-
-3) I have printed some variables that are not asked to be printed that is just for sake of clarity of what's happening.
-
-4) In The 2nd , i have writen in very much detail about working of code,so please refer to that cause i have done 3 parts of question using same function .
-
-5) If a code doesn't run or give errors, please re-run it , it will surely work i have checked all the codes twice.
+# Instructions For running the codes -
+1. Please run the codes in sequence as given as the functions are dependent on each other and also there might be the page that is opened already is used.
+2. If the code gives some exceptions then please re-run it might be due data transmission although i have included sleep commands to get the elements loaded completely.
+3. I have printed some variables that are not asked to be printed that is just for sake of clarity of what's happening.
+4. In The 2nd , i have writen in very much detail about working of code,so please refer to that cause i have done 3 parts of question using same function.
+5. If a code doesn't run or give errors, please re-run it , it will surely work i have checked all the codes twice.
